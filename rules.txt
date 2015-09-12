@@ -1,0 +1,9 @@
+* a game is over when any player reaches final cell first.
+* a player can arrive at a new position by adding the number to existing position from the throw of dice
+* a player can arrive at final cell only by throwing on dice the exact number of positions required to reach it.
+* a player is promoted to head position of ladder when they arrive at a cell containing ladder’s tail
+* a player is demoted to tail position of snake when they arrive at a cell containing snake’s head
+* players take turns occupying new positions until the game is over
+
+
+
